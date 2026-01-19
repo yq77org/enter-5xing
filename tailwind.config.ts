@@ -62,6 +62,26 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				wood: {
+					DEFAULT: 'hsl(var(--wood))',
+					glow: 'hsl(var(--wood-glow))'
+				},
+				fire: {
+					DEFAULT: 'hsl(var(--fire))',
+					glow: 'hsl(var(--fire-glow))'
+				},
+				earth: {
+					DEFAULT: 'hsl(var(--earth))',
+					glow: 'hsl(var(--earth-glow))'
+				},
+				metal: {
+					DEFAULT: 'hsl(var(--metal))',
+					glow: 'hsl(var(--metal-glow))'
+				},
+				water: {
+					DEFAULT: 'hsl(var(--water))',
+					glow: 'hsl(var(--water-glow))'
 				}
 			},
 			borderRadius: {
