@@ -59,7 +59,7 @@ const Index = () => {
       <div className="relative z-10 container mx-auto px-4 py-16 max-w-7xl">
         {/* 标题 */}
         <div className="text-center mb-16 space-y-4">
-          <h1 className="text-6xl md:text-7xl font-bold text-foreground mb-4">五行1</h1>
+          <h1 className="text-6xl md:text-7xl font-bold text-foreground mb-4">五行2</h1>
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto">
             中国古代哲学的五种基本元素 — 木、火、土、金、水
           </p>
